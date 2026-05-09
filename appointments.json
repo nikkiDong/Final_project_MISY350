@@ -118,5 +118,20 @@
     "symptom_summary": "Blurry vision",
     "status": "Scheduled",
     "doctor_note": ""
+  },
+  {
+    "appointment_id": "appt-a30eb39e",
+    "clinic_id": "ClearVision-01",
+    "patient_name": "James Lee",
+    "patient_email": "james@email.com",
+    "doctor_id": "doc_01",
+    "doctor_name": "Dr. Sarah Chen",
+    "appointment_date": "2026-05-12",
+    "appointment_time": "09:00",
+    "submitted_timestamp": "2026-05-09T13:25:11.299153",
+    "appointment_type": "Cataract Evaluation",
+    "symptom_summary": "blurry vision",
+    "status": "Scheduled",
+    "doctor_note": ""
   }
 ]
