@@ -1,0 +1,20 @@
+[
+  {
+    "patient_id": "pat_01",
+    "name": "James Lee",
+    "email": "james@email.com",
+    "password": "9b8769a4a742959a2d0298c36fb70623f2dfacda8436237df08d8dfd5b37374c"
+  },
+  {
+    "patient_id": "pat_02",
+    "name": "Maria Gomez",
+    "email": "maria@email.com",
+    "password": "9b8769a4a742959a2d0298c36fb70623f2dfacda8436237df08d8dfd5b37374c"
+  },
+  {
+    "patient_id": "pat_03",
+    "name": "David Kim",
+    "email": "david@email.com",
+    "password": "9b8769a4a742959a2d0298c36fb70623f2dfacda8436237df08d8dfd5b37374c"
+  }
+]

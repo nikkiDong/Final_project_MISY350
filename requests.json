@@ -1,0 +1,32 @@
+[
+  {
+    "status": "Pending",
+    "course_id": "011101",
+    "student_email": "alice.wang@university.edu",
+    "absence_date": "2026-03-24",
+    "submitted_timestamp": "2026-03-24T10:15:32.041823",
+    "excuse_type": "Medical / Illness",
+    "explanation": "I had a high fever and was advised by my doctor to rest at home. I have a medical certificate available upon request.",
+    "instructor_note": ""
+  },
+  {
+    "status": "Approved",
+    "course_id": "011101",
+    "student_email": "brian.johnson@university.edu",
+    "absence_date": "2026-03-20",
+    "submitted_timestamp": "2026-03-20T14:03:11.882341",
+    "excuse_type": "Family Emergency",
+    "explanation": "A close family member was hospitalized unexpectedly and I needed to travel out of town to assist.",
+    "instructor_note": "Approved. Please make up the missed quiz by Friday."
+  },
+  {
+    "status": "Denied",
+    "course_id": "011101",
+    "student_email": "chloe.kim@university.edu",
+    "absence_date": "2026-03-18",
+    "submitted_timestamp": "2026-03-19T09:45:00.123456",
+    "excuse_type": "Transportation Issue",
+    "explanation": "My car broke down on the way to campus and I could not find an alternative ride in time.",
+    "instructor_note": "Denied. Please plan for alternative transportation in advance."
+  }
+]
